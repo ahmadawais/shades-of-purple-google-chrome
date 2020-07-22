@@ -1,0 +1,33 @@
+{
+  "name": "Shades of Purple",
+  "description": "Shades of Purple Theme for Google Chrome",
+  "author": "Iolar Demartini Junior",
+  "version": "0.1.0",
+  "manifest_version": 2,
+  "icons": {
+    "16": "images/icons/icon-16.png",
+    "48": "images/icons/icon-48.png",
+    "96": "images/icons/icon-96.png",
+    "128": "images/icons/icon-128.png"
+  },
+  "theme": {
+    "colors": {
+      "bookmark_text": [255, 255, 255],
+      "frame": [45, 43, 85],
+      "ntp_background": [45, 43, 85],
+      "ntp_link": [77, 33, 252],
+      "ntp_text": [255, 238, 128],
+      "tab_background_text_inactive": [255, 255, 255],
+      "tab_background_text_incognito_inactive": [255, 255, 255],
+      "tab_background_text_incognito": [255, 255, 255],
+      "tab_background_text": [165, 153, 233],
+      "tab_text": [255, 255, 255],
+      "toolbar": [30, 30, 63]
+    },
+    "tints": {
+      "buttons": [0.14, 1, 0.49],
+      "frame_inactive": [0.7, 1, 0.63],
+      "frame_incognito": [0.71, 0.38, 0.23]
+    }
+  }
+}
