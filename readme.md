@@ -18,7 +18,7 @@
 
 ## Install
 
-- **RECOMMENDED**: Download from Google Chrome Store (submitted for review)
+- **RECOMMENDED**: [Download from Google Chrome Store](https://chrome.google.com/webstore/detail/shades-of-purple-chrome-t/ljeonhoonibcofjepiphcekbihoiaife)
 
 - **OR**: Use the [unpacked version](./theme/shades-of-purple)
   1. Navigate to `chrome://extensions`
