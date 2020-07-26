@@ -20,7 +20,7 @@
 	],
 	"scripts": {
 		"format": "prettier --write \"./**/*.{js,json}\"",
-		"prezip": "find . -name '*.pak' -type f -delete >/dev/null 2>&1",
+		"prezip": "find . -name '*.pak' -type f -delete >/dev/null 2>&1 && find . -name '*.zip' -type f -delete >/dev/null 2>&1",
 		"zip": "cd ./theme/shades-of-purple/ && zip -r ./../shades-of-purple.zip . -x '.*' -x '__MACOSX' -x 'Cached Theme.pak' >/dev/null 2>&1"
 	},
 	"devDependencies": {
