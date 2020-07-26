@@ -20,6 +20,9 @@
 
 - Download from Google Chrome Store
 - Or use the [unpacked version](./theme/shades-of-purple)
+  1. Navigate to `chrome://extensions`
+  2. Click on `Load unpacked`
+  3. Select the `theme/shades-of-purple` folder
 
 <br>
 
