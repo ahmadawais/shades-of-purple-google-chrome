@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://chrome.google.com/webstore/detail/aomhpijmdccjapkfcbalcoimhdlbkfjn">
+  <a href="https://chrome.google.com/webstore/detail/shades-of-purple-chrome-t/ljeonhoonibcofjepiphcekbihoiaife">
     <img src="https://github.com/ahmadawais/shades-of-purple-google-chrome/raw/master/.github/logo.png" alt="Logo shades-of-purple-google-chrome" width="120">
   </a>
 </div>
