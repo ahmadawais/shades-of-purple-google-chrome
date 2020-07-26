@@ -18,11 +18,13 @@
 
 ## Install
 
-- Download from Google Chrome Store
-- Or use the [unpacked version](./theme/shades-of-purple)
+- **RECOMMENDED**: Download from Google Chrome Store (submitted for review)
+
+- **OR**: Use the [unpacked version](./theme/shades-of-purple)
   1. Navigate to `chrome://extensions`
-  2. Click on `Load unpacked`
-  3. Select the `theme/shades-of-purple` folder
+  2. Enable developer mode (top-right corner)
+  3. Click on `Load unpacked` button (top-left corner)
+  4. Select the `theme/shades-of-purple` folder and done
 
 <br>
 
