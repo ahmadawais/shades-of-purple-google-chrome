@@ -1,6 +1,6 @@
 <h4 align="center">
     <a href="https://github.com/ahmadawais/shades-of-purple-google-chrome">
-        <img src="https://github.com/ahmadawais/shades-of-purple-google-chrome/raw/master/.github/logo.png" alt="shades-of-purple-google-chrome" />
+        <img src="https://github.com/ahmadawais/shades-of-purple-google-chrome/raw/master/.github/logo.png" alt="shades-of-purple-google-chrome" width="100"/>
     </a>
     <br>
     <br>
