@@ -1,19 +1,27 @@
 {
-	"private": true,
 	"name": "shades-of-purple-google-chrome",
+	"version": "0.2.0",
 	"description": "🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Google Chrome Browser.",
-	"version": "0.1.0",
+	"license": "MIT",
+	"repository": "ahmadawais/shades-of-purple-google-chrome",
 	"author": {
 		"name": "Ahmad Awais",
 		"email": "me@AhmadAwais.com",
-		"url": "https://twitter.com/MrAhmadAwais/"
+		"url": "https://twitter.com/MrAhmadAwais"
 	},
-	"repository": "ahmadawais/shades-of-purple-google-chrome",
 	"keywords": [
 		"shades of purple",
 		"chrome",
 		"theme",
 		"purple"
 	],
-	"license": "MIT"
+	"files": [
+		"theme"
+	],
+	"scripts": {
+		"format": "prettier --write \"./**/*.{js,json}\""
+	},
+	"devDependencies": {
+		"prettier": "^2.0.5"
+	}
 }
