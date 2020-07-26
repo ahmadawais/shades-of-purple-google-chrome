@@ -12,6 +12,7 @@
 	"theme": {
 		"colors": {
 			"frame": [50, 50, 100],
+			"frame_incognito": [77, 33, 252],
 			"ntp_background": [50, 50, 100],
 			"toolbar": [30, 30, 63],
 			"tab_text": [165, 153, 233],
@@ -23,10 +24,7 @@
 			"ntp_text": [165, 153, 233]
 		},
 		"tints": {
-			"buttons": [0.69, 0.65, 0.76],
-			"frame_inactive": [-1, -1, 0.6],
-			"frame_incognito": [0.1, 0, 0.3],
-			"frame_incognito_inactive": [0.1, 0, 0.3]
+			"buttons": [0.69, 0.65, 0.76]
 		}
 	}
 }
