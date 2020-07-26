@@ -22,9 +22,9 @@
 
 - **OR**: Use the [unpacked version](./theme/shades-of-purple)
   1. Navigate to `chrome://extensions`
-  2. Enable developer mode (top-right corner)
-  3. Click on `Load unpacked` button (top-left corner)
-  4. Select the `theme/shades-of-purple` folder and done
+  2. Enable `Developer mode` (top-right corner)
+  3. Click on <kbd>Load unpacked</kbd> button (top-left corner)
+  4. Select the [`theme/shades-of-purple`](./theme/shades-of-purple) folder and done
 
 <br>
 
