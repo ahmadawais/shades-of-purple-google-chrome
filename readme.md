@@ -24,11 +24,6 @@
   </a>
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/demartini/shades-of-purple-google-chrome/issues">Report Bug</a>
-  -
-  <a href="https://github.com/demartini/shades-of-purple-google-chrome/issues">Request Feature</a>
-</div>
 
 ## Table of Contents
 
