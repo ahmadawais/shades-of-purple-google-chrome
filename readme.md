@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 
-[![Shades of Purple Google Chrome Download](https://img.shields.io/badge/DOWNLOAD-%20Chrome%20Theme-gray.svg?colorA=2D2B55&colorB=4627E6&style=flat)](https://https://ShadesOfPurple.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome) [![Shades of Purple](https://img.shields.io/badge/-ShadesOfPurple.pro-gray.svg?colorB=4627E6&style=flat)](https://https://ShadesOfPurple.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome) [![VSCode](https://img.shields.io/badge/-VSCode.pro-gray.svg?colorB=4627E6&style=flat)](https://vscode.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome) [![Learn Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=4627E6&style=flat)](https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome) [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS-gray.svg?colorA=4627E6&colorB=4627E6&style=flat)](https://twitter.com/mrahmadawais/)
+[![Shades of Purple Google Chrome Download](https://img.shields.io/badge/DOWNLOAD-%20Chrome%20Theme-gray.svg?colorA=2D2B55&colorB=4627E6&style=flat)](https://ShadesOfPurple.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome) [![Shades of Purple](https://img.shields.io/badge/-ShadesOfPurple.pro-gray.svg?colorB=4627E6&style=flat)](https://https://ShadesOfPurple.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome) [![VSCode](https://img.shields.io/badge/-VSCode.pro-gray.svg?colorB=4627E6&style=flat)](https://vscode.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome) [![Learn Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=4627E6&style=flat)](https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome) [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS-gray.svg?colorA=4627E6&colorB=4627E6&style=flat)](https://twitter.com/mrahmadawais/)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <br>
 
-![Shades of Purple for Google Chrome](https://github.com/ahmadawais/shades-of-purple-google-chrome/raw/master/.github/shades-of-purple-chrome.jpg)
+[![Shades of Purple for Google Chrome](https://github.com/ahmadawais/shades-of-purple-google-chrome/raw/master/.github/shades-of-purple-chrome.jpg)][s]
 
 <br>
 
@@ -95,3 +95,5 @@ without wasting a 1,000 hours][n] →</p>
 [n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=shades-of-purple-google-chrome
 
 [![Awais on Twitter](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)](https://github.com/AhmadAwais/sponsor)
+
+[s]: https://ShadesOfPurple.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome
