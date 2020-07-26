@@ -1,5 +1,5 @@
 {
-	"name": "Shades of Purple Chrome Theme - Dark",
+	"name": "Shades of Purple Chrome Theme",
 	"description": "🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Google Chrome Browser.",
 	"manifest_version": 2,
 	"version": "0.3.0",
@@ -17,7 +17,7 @@
 			"frame_incognito_inactive": [77, 33, 230],
 			"ntp_background": [50, 50, 100],
 			"toolbar": [30, 30, 63],
-			"tab_text": [165, 153, 233],
+			"tab_text": [255, 255, 255],
 			"tab_background_text": [165, 153, 233],
 			"bookmark_text": [255, 255, 255],
 			"tab_background_text_incognito": [255, 255, 255],
