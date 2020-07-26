@@ -17,8 +17,9 @@ node_modules/
 *.zip
 *.tgz
 *.map
-*.crx
 *.pak
+*.zip
+*.pem
 
 # Logs and databases #
 ######################
@@ -30,9 +31,9 @@ node_modules/
 ######################
 **.DS_Store*
 ehthumbs.db
-Icon?
 Thumbs.db
 ._*
+**settings.dat*
 
 # Vim generated files #
 ######################
@@ -69,10 +70,5 @@ assets/bower_components/*
 library/vendors/composer
 assets/img/.DS_Store
 
-# Visual Studio Project Files #
-.vs/
-
-# No lock files.
-package-lock.json
-yarn.lock
-settings.dat
+# VSCode related files #
+# .vscode
