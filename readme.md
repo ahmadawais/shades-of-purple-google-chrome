@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 
-[![Shades of Purple Google Chrome Download](https://img.shields.io/badge/DOWNLOAD-%20Chrome%20Theme-gray.svg?colorA=2D2B55&colorB=4627E6&style=flat)](https://ShadesOfPurple.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome) [![Shades of Purple](https://img.shields.io/badge/-ShadesOfPurple.pro-gray.svg?colorB=4627E6&style=flat)](https://https://ShadesOfPurple.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome) [![VSCode](https://img.shields.io/badge/-VSCode.pro-gray.svg?colorB=4627E6&style=flat)](https://vscode.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome) [![Learn Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=4627E6&style=flat)](https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome) [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS-gray.svg?colorA=4627E6&colorB=4627E6&style=flat)](https://twitter.com/mrahmadawais/)
+[![Shades of Purple Google Chrome Download](https://img.shields.io/badge/DOWNLOAD-%20Chrome%20Theme-gray.svg?colorA=2D2B55&colorB=4627E6&style=flat)][c] [![Shades of Purple](https://img.shields.io/badge/-ShadesOfPurple.pro-gray.svg?colorB=4627E6&style=flat)][s] [![VSCode](https://img.shields.io/badge/-VSCode.pro-gray.svg?colorB=4627E6&style=flat)][v] [![Learn Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=4627E6&style=flat)][n] [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS-gray.svg?colorA=4627E6&colorB=4627E6&style=flat)](https://twitter.com/mrahmadawais/)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## Install
 
-- **RECOMMENDED**: [Download from Google Chrome Store](https://chrome.google.com/webstore/detail/shades-of-purple-chrome-t/ljeonhoonibcofjepiphcekbihoiaife)
+- **RECOMMENDED**: [Download from Google Chrome Store][c]
 
 - **OR**: Use the [unpacked version](./theme/shades-of-purple)
   1. Navigate to `chrome://extensions`
@@ -97,3 +97,7 @@ without wasting a 1,000 hours][n] →</p>
 [![Awais on Twitter](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)](https://github.com/AhmadAwais/sponsor)
 
 [s]: https://ShadesOfPurple.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome
+
+[c]: https://chrome.google.com/webstore/detail/shades-of-purple-chrome-t/ljeonhoonibcofjepiphcekbihoiaife
+
+[v]: https://vscode.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome
