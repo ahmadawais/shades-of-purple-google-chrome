@@ -13,6 +13,8 @@ Shades of Purple — A professional theme with hand-picked & bold shades of purp
 
 <br>
 
+![Shades of Purple for Google Chrome](https://github.com/ahmadawais/shades-of-purple-google-chrome/raw/master/.github/shades-of-purple-chrome.jpg)
+
 <br>
 
 [![📟](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/install.png)](./../../)
