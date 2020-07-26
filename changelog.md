@@ -32,6 +32,18 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [v0.3.1](https://github.com/ahmadawais/shades-of-purple-google-chrome/compare/v0.3.0...v0.3.1)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Link [`bd69bbd`](https://github.com/ahmadawais/shades-of-purple-google-chrome/commit/bd69bbd609ad8a664ad3c641a7ed7a003feb3dd4) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [v0.3.0](https://github.com/ahmadawais/shades-of-purple-google-chrome/compare/v0.2.1...v0.3.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -39,6 +51,10 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 > 📦 Incognito [`3c3ee03`](https://github.com/ahmadawais/shades-of-purple-google-chrome/commit/3c3ee033c81f00a4c5ac065d4131adc8650b32ba) <br>
 > 📦 Minor [`a40e2af`](https://github.com/ahmadawais/shades-of-purple-google-chrome/commit/a40e2af3a1b34e40c944784a133f1a1221a8336e) <br>
 > 📦 Script [`827c4aa`](https://github.com/ahmadawais/shades-of-purple-google-chrome/commit/827c4aaedabfcb621e5c295009cd2ed94397c3ea) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`0ac9c49`](https://github.com/ahmadawais/shades-of-purple-google-chrome/commit/0ac9c497023094fc6292b3d471fef3cc58ae21a5) <br>
 
 <br>
 
