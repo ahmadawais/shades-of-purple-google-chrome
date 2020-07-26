@@ -1,38 +1,19 @@
 {
 	"private": true,
 	"name": "shades-of-purple-google-chrome",
-	"description": "Shades of Purple Theme for Google Chrome",
-	"version": "0.1.1",
+	"description": "🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Google Chrome Browser.",
+	"version": "0.1.0",
 	"author": {
-		"name": "Iolar Demartini Junior",
-		"email": "iolardemartini@gmail.com",
-		"url": "https://demartini.dev"
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais/"
 	},
-	"contributors": [
-		{
-			"name": "Shades of Purple Theme for Google Chrome Contributors",
-			"url": "https://github.com/demartini/shades-of-purple-google-chrome/graphs/contributors"
-		}
-	],
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/demartini/shades-of-purple-google-chrome.git"
-	},
+	"repository": "ahmadawais/shades-of-purple-google-chrome",
 	"keywords": [
 		"shades of purple",
 		"chrome",
 		"theme",
 		"purple"
 	],
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/demartini/shades-of-purple-google-chrome/issues"
-	},
-	"homepage": "https://github.com/demartini/shades-of-purple-google-chrome#readme",
-	"devDependencies": {
-		"standard-version": "^8.0.2"
-	},
-	"scripts": {
-		"release": "standard-version"
-	}
+	"license": "MIT"
 }
