@@ -12,12 +12,13 @@
 	"theme": {
 		"colors": {
 			"frame": [50, 50, 100],
+			"frame_inactive": [50, 50, 85],
 			"frame_incognito": [77, 33, 252],
+			"frame_incognito_inactive": [77, 33, 230],
 			"ntp_background": [50, 50, 100],
 			"toolbar": [30, 30, 63],
 			"tab_text": [165, 153, 233],
 			"tab_background_text": [165, 153, 233],
-			"tab_background_text_inactive": [165, 153, 233],
 			"bookmark_text": [255, 255, 255],
 			"tab_background_text_incognito": [255, 255, 255],
 			"tab_background_text_incognito_inactive": [165, 153, 233],
