@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://chrome.google.com/webstore/detail/shades-of-purple-chrome-t/ljeonhoonibcofjepiphcekbihoiaife">
+  <a href="https://chrome.google.com/webstore/detail/ljeonhoonibcofjepiphcekbihoiaife">
     <img src="https://github.com/ahmadawais/shades-of-purple-google-chrome/raw/master/.github/logo.png" alt="Logo shades-of-purple-google-chrome" width="120">
   </a>
 </div>
@@ -98,6 +98,6 @@ without wasting a 1,000 hours][n] →</p>
 
 [s]: https://ShadesOfPurple.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome
 
-[c]: https://chrome.google.com/webstore/detail/shades-of-purple-chrome-t/ljeonhoonibcofjepiphcekbihoiaife
+[c]: https://chrome.google.com/webstore/detail/ljeonhoonibcofjepiphcekbihoiaife
 
 [v]: https://vscode.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=shades-of-purple-google-chrome
