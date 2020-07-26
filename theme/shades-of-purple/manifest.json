@@ -2,7 +2,7 @@
 	"name": "Shades of Purple Chrome Theme",
 	"description": "🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Google Chrome Browser.",
 	"manifest_version": 2,
-	"version": "0.3.0",
+	"version": "0.4.0",
 	"icons": {
 		"16": "icon/icon-16.png",
 		"48": "icon/icon-48.png",
