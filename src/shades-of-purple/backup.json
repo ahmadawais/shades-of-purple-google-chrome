@@ -1,8 +1,9 @@
 {
-	"name": "Shades of Purple Chrome Theme - Dark",
+	"name": "Shades of Purple",
 	"description": "🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Google Chrome Browser.",
-	"manifest_version": 2,
+	"author": "Ahmad Awais",
 	"version": "0.3.0",
+	"manifest_version": 2,
 	"icons": {
 		"16": "images/icons/icon-16.png",
 		"48": "images/icons/icon-48.png",
@@ -11,22 +12,23 @@
 	},
 	"theme": {
 		"colors": {
-			"frame": [50, 50, 100],
-			"ntp_background": [50, 50, 100],
+			"frame": [45, 43, 85],
+			"ntp_background": [45, 43, 85],
+			"ntp_link": [30, 30, 63],
 			"toolbar": [30, 30, 63],
 			"tab_text": [165, 153, 233],
 			"tab_background_text": [165, 153, 233],
+			"bookmark_text": [165, 153, 233],
+			"ntp_text": [165, 153, 233],
+
 			"tab_background_text_inactive": [165, 153, 233],
-			"bookmark_text": [255, 255, 255],
-			"tab_background_text_incognito": [255, 255, 255],
 			"tab_background_text_incognito_inactive": [165, 153, 233],
-			"ntp_text": [165, 153, 233]
+			"tab_background_text_incognito": [165, 153, 233]
 		},
 		"tints": {
 			"buttons": [0.69, 0.65, 0.76],
-			"frame_inactive": [-1, -1, 0.6],
-			"frame_incognito": [0.1, 0, 0.3],
-			"frame_incognito_inactive": [0.1, 0, 0.3]
+			"frame_inactive": [0.7, 1, 0.63],
+			"frame_incognito": [0.71, 0.38, 0.23]
 		}
 	}
 }
