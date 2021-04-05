@@ -1,8 +1,8 @@
 {
 	"name": "Shades of Purple Chrome Theme",
-	"description": "🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Google Chrome Browser.",
+	"description": "Shades of Purple — A professional theme with hand-picked & bold shades of purple for Google Chrome Browser.",
 	"manifest_version": 2,
-	"version": "0.4.0",
+	"version": "1.0.0",
 	"icons": {
 		"16": "icon/icon-16.png",
 		"48": "icon/icon-48.png",
@@ -19,10 +19,16 @@
 			"toolbar": [30, 30, 63],
 			"tab_text": [255, 255, 255],
 			"tab_background_text": [165, 153, 233],
-			"bookmark_text": [255, 255, 255],
-			"tab_background_text_incognito": [255, 255, 255],
+			"bookmark_text": [165, 153, 233],
+			"tab_background_text_incognito": [165, 153, 233],
 			"tab_background_text_incognito_inactive": [165, 153, 233],
-			"ntp_text": [165, 153, 233]
+			"ntp_text": [165, 153, 233],
+			"background_tab": [50, 50, 100],
+			"background_tab_inactive": [50, 50, 100],
+			"background_tab_incognito": [50, 50, 100],
+			"background_tab_incognito_inactive": [50, 52, 100],
+			"tab_background_text_inactive": [157, 148, 197],
+			"toolbar_button_icon": [165, 153, 233]
 		},
 		"tints": {
 			"buttons": [0.69, 0.65, 0.76]
